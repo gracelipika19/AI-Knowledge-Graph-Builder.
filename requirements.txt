@@ -1,0 +1,43 @@
+# # Core NLP
+# spacy==3.8.0
+# en-core-web-sm==3.8.0
+
+# # Data handling
+# pandas>=1.5.0
+
+# # PDF processing
+# PyPDF2>=3.0.0
+
+# # Optional (future graph stage)
+# # neo4j>=5.0.0
+# # rdflib>=7.0.0
+
+
+# pip install spacy
+# python -m spacy download en_core_web_sm
+
+# pip install sentence-transformers faiss-cpu
+
+# pip3 install neo4j
+# pip install faiss-cpu
+# pip install sentence-transformers
+
+
+
+
+flask
+flask-cors
+groq
+neo4j
+sentence-transformers
+faiss-cpu
+python-dotenv
+
+fastapi
+uvicorn
+pydantic
+numpy
+groq
+
+
+

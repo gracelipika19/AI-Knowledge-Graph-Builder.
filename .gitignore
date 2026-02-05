@@ -1,0 +1,37 @@
+# Environments
+venv/
+.venv/
+auraenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*Key*
+*.key
+
+# Logs
+*.log
+cli_log.txt
+
+# Data (DO NOT COMMIT)
+csv_files/
+emails/
+pdfs-data/
+excel/
+json_file/
+ingested_storage/
+internal_db/
+output/
+faiss_index.bin
+filtered_relations.json
+entity_mapping.json
+
+# Neo4j / Graph artifacts
+cypher_files/
+
+# OS
+.DS_Store
+Thumbs.db
