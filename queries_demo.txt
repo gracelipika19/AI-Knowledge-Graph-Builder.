@@ -1,0 +1,35 @@
+Entity-Level Queries
+Q: Who were Enron's key financial partners?
+Q: Which banks invested in Enron?
+Q: Which companies supplied Enron?
+Q: What did Merrill Lynch do with Enron?
+
+Industry/Domain Queries
+Q: What industries relied on Enron?
+Q: What market did Enron dominate?
+Q: What infrastructure did Enron operate?
+
+Relationship/Graph Queries
+Q: Show links between Enron and Citigroup
+Q: Show relationships between Enron and Dynegy
+Q: List subsidiaries under Enron
+
+Failure/Collapse Queries
+Q: Why did Enron collapse?
+Q: Which entities were impacted by Enron's bankruptcy?
+
+Summarization
+Q: Summarize Enron’s ecosystem in 5 bullet points
+
+
+Q: Who founded Intel?
+Q: Which banks financed Enron?
+Q: Which industries use semiconductors?
+Q: Who are major telecom operators in Europe?
+Q: Which companies are pioneers in the microprocessor field?
+Q: How was Enron connected to financial institutions?
+Q: What government entities interacted with Enron?
+Q: What executive roles did Gordon Moore have?
+Q: Which companies are related to Rothschild?
+Q: Summarize semiconductor history in brief.
+

@@ -35,3 +35,15 @@ cypher_files/
 # OS
 .DS_Store
 Thumbs.db
+
+
+# Redundant test and utility scripts (local only)
+apply_aliases.py
+filter_knowledge.py
+pdf_check.py
+rag_graph2.py
+review_aliases.py
+test_deepseek.py
+test_llm.py
+test_rag.py
+unify_entities.py
