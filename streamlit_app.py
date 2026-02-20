@@ -23,9 +23,9 @@ st.set_page_config(
 @st.cache_resource
 def load_rag():
     store = EmbeddingStore(
-        "output/embeddings.npy",
-        "output/ids.npy",
-        "output/meta.jsonl"
+    "deployment_assets/embeddings.npy",
+    "deployment_assets/ids.npy",
+    "deployment_assets/meta.jsonl"
     )
     vec = VectorIndex(store)
     graph = GraphSearch()  # kept for pipeline consistency
